@@ -165,3 +165,7 @@ Debes obtener una respuesta similar a [esta](https://oscarm.tinytake.com/tt/NTI4
 3. El compañero/a debe ejecutar "npm install"; sin parámetros.
 
 Si está bien creado el package.json; tu compañero/a debe ser capaz de ejecutar cualquier servidor en su máquina mediante "npm run nombre-del-servidor".
+
+## Soluciones 
+
+Solución de Adrián Rey [Enlace](https://github.com/arlomba/express-exercise-students)
